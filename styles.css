@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body {
+  background-image: url(https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2014_FallP8/Rami_Portfolio_Period8/unit4_css/project_1folder/cssProject1/background.jpg);
+}
+#animal-photos {
+  background-color: #444444;
+  border-radius: 20px;
+}
+#photo-heading {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  text-align: center;
+}
+img {
+  border-radius: 20px;
+  padding: 10px;
+}
